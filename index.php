@@ -10,5 +10,8 @@
   <h3>Belajar git remote 2</h3>
   <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis numquam omnis mollitia necessitatibus, minima dolore?
   </p>
+  <ul>
+    <li>coba dulu aja   </li>
+  </ul>
 </body>
 </html>
